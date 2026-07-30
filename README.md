@@ -2,7 +2,7 @@
 
 A Java console version of Blackjack with betting, card draws, dealer behavior, and win-state checking.
 
-[View my programming portfolio](https://charliebarra.github.io/portfolio/programming.html)
+[View my programming portfolio](https://www.charliebarra.com/programming.html)
 
 ![A Blackjack round running in jGRASP](images/blackjack-screenshot.png)
 
