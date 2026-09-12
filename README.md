@@ -59,3 +59,7 @@ I am not reconstructing the missing class from memory because that would no long
 ## Source Integrity
 
 The supplied Java files are intentionally unchanged, including the variable names. Yes, the Scanners are really named `gorlockTheEaterOfInts` and `gorlockTheEaterOfStrings`.
+
+## Repository Context
+
+This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The Java source, compiled class, and screenshot are preserved from the supplied original project materials; `SOURCE-INTEGRITY.md` records their checksums.
