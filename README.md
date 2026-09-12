@@ -63,3 +63,7 @@ The supplied Java files are intentionally unchanged, including the variable name
 ## Repository Context
 
 This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The Java source, compiled class, and screenshot are preserved from the supplied original project materials; `SOURCE-INTEGRITY.md` records their checksums.
+
+## Repository Context
+
+This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The source files, screenshots, and source-integrity record preserve the available original project evidence.
